@@ -116,16 +116,13 @@ npm run serve
 ## 页面截图
 
 **登录**
-![](http://tao88_88.gitee.io/images/test.gif "login.gif")
-
+<img src="http://tao88_88.gitee.io/images/test.gif" width="600" height="400">
 
 **商品展示**
-![](http://tao88_88.gitee.io/images/1.gif )
-
+<img src="http://tao88_88.gitee.io/images/1.gif" width="600" height="400">
 
 **订单结算**
-![](http://tao88_88.gitee.io/images/2.gif )
-
+<img src="http://tao88_88.gitee.io/images/2.gif" width="600" height="400">
 
 **作者** [彭云涛](https://github.com/Taoaaaaa)<br>
 2022年2月20日
