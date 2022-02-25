@@ -99,5 +99,8 @@ cd进入store-server-master，然后 node app.js启动服务器端口
 💝第三步：
 cd进入vue-store-master，然后npm run serve启动vue前端网站
 ```
+
+![](https://gitee.com/Tao88_88/images/raw/master/test.gif "test图片")
+
 **作者** [彭云涛](https://github.com/Taoaaaaa)
 2022年2月20日
