@@ -1,9 +1,9 @@
 /*
  * @Description: 购物车状态模块
- * @Author: hai-27
- * @Date: 2020-02-21 18:40:41
- * @LastEditors: hai-27
- * @LastEditTime: 2020-03-07 20:38:55
+ * @Author: Tao
+ * @Date: 2022-02-11 18:40:41
+ * @LastEditors: Tao
+ * @LastEditTime: 2022-02-17 20:38:55
  */
 export default {
   state: {

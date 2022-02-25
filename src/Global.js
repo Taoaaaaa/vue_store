@@ -1,9 +1,9 @@
 /*
  * @Description: 全局变量
- * @Author: hai-27
- * @Date: 2020-02-23 13:40:18
- * @LastEditors: hai-27
- * @LastEditTime: 2020-03-05 01:41:50
+ * @Author: Tao
+ * @Date: 2022-02-13 13:40:18
+ * @LastEditors: Tao
+ * @LastEditTime: 2020-02-22 01:41:50
  */
 exports.install = function (Vue) {
   //Vue.prototype.$target = "http://47.115.85.237:3000/"; // 线上后端地址

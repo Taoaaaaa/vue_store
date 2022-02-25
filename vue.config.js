@@ -1,9 +1,9 @@
 /*
- * @Description: 配置文件
- * @Author: hai-27
- * @Date: 2020-02-07 16:23:00
- * @LastEditors: hai-27
- * @LastEditTime: 2020-03-05 01:41:38
+ * @Description: 配置文件(跨域)
+ * @Author: Tao
+ * @Date: 2022-02-07 16:23:00
+ * @LastEditors: Tao
+ * @LastEditTime: 2022-02-15 01:41:38
  */
 module.exports = {
   publicPath: './',

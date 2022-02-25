@@ -3,7 +3,7 @@
  * @Author: Tao
  * @Date: 2022-02-04 20:20:26
  * @LastEditors: Tao
- * @LastEditTime: 2022-03-07 21:59:26
+ * @LastEditTime: 2022-02-17 21:59:26
  -->
 <template>
   <div id="details">
