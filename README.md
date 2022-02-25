@@ -113,7 +113,19 @@ npm install
 npm run serve
 ```
 
-![](https://gitee.com/Tao88_88/images/raw/master/test.gif "test图片")
+## 页面截图
+
+**登录**
+![](http://tao88_88.gitee.io/images/test.gif "login.gif")
+
+
+**商品展示**
+![](http://tao88_88.gitee.io/images/1.gif )
+
+
+**订单结算**
+![](http://tao88_88.gitee.io/images/2.gif )
+
 
 **作者** [彭云涛](https://github.com/Taoaaaaa)<br>
 2022年2月20日
